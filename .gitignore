@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Environments
+.env/
+.venv/
+.envrc
+
+# Logs and outputs
+runs/
+logs/
+outputs/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
