@@ -23,3 +23,13 @@ outputs/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Ignore specific directories
+archive/
+common/
+cartpole/
+
+# Larger follow-up experiments kept outside this toy demo repo
+grid/DQN_Case33bw_CapacitorSwitching.ipynb
+grid/two_capacitor_candidate_scan_results.csv
+grid/pyrightconfig.json
